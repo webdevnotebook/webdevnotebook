@@ -1,8 +1,8 @@
-### Hi there 👋
-## I'm WebDev Notebook
+#### Hi there 👋
+### This is WebDev Notebook
 
-📔 Blog: WebDev Notebook
-📹 YouTube: WebDev Playbook
+- 📔 Blog: WebDev Notebook
+- 📹 YouTube: WebDev Playbook
 
 😀 About me:
 - 👦 he/him
